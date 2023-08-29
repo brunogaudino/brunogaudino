@@ -13,10 +13,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/brunocesaragweb" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="brunocesaragweb" height="30" width="40" /></a>
-<a href="https://dev.to/brunogaudino" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="brunogaudino" height="30" width="40" /></a>
+<a href="https://linktr.ee/brunocagaudino" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linktree.svg" alt="linktree link" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/brunocesarweb" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="brunocesarweb" height="30" width="40" /></a>
-<a href="https://www.behance.net/brunocesarweb" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/behance.svg" alt="brunocesarweb" height="30" width="40" /></a>
 <a href="https://medium.com/@brunogaudino" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@brunogaudino" height="30" width="40" /></a>
 </p>
 
